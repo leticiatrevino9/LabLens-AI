@@ -1,0 +1,13 @@
+prueba,valor,unidad,rango
+GLU,116,mg/dL,70 - 110
+Creat,0.96,mg/dL,0.70 - 1.20
+LDL colesterol,96,mg/dL,<100
+HDL,71,mg/dL,>60
+TG,94,mg/dL,<150
+Hb,14.2,g/dL,14.0 - 18.0
+HCT,41.0,%,40.0 - 54.0
+Lipase,318,U/L,23 - 300
+Uric Acid,7.4,mg/dL,3.5 - 7.2
+Sodium,137,mmol/L,135 - 146
+Potasio,4.7,mmol/L,3.5 - 5.3
+Prueba inventada X,5.1,,

@@ -1,0 +1,5 @@
+tipo,periodo,parametro,dato,motivo
+Posible error de captura,2024-08,Creatinina,12.7,Valor incompatible con la serie circundante de esta demo. Confirmar contra el informe original antes de usarlo.
+Texto malformado,2025-03,Sodio,13+N8,No se pudo convertir de forma segura a número; se conserva como texto para revisión.
+Cambio de escala o unidad,2020-2024,Prueba hormonal,Varios,La magnitud cambia por órdenes; no comparar sin confirmar unidad y método.
+Cambio de rango,2026-05,Lipasa en suero,Rango actualizado,El laboratorio reporta un intervalo distinto al de mediciones anteriores.
