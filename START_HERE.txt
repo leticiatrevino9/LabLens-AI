@@ -1,0 +1,15 @@
+LABLENS AI — START HERE
+
+1) Read PRESENTATION_SCRIPT.md if you are presenting the project.
+2) Run locally:
+   python -m venv .venv
+   .venv\\Scripts\\activate          (Windows)
+   pip install -r requirements.txt
+   streamlit run app.py
+3) In the app, open “Comparar estudio” and leave the demo toggle ON.
+4) Then open “Ask LabLens” and ask:
+   ¿Qué datos tienen banderas de calidad?
+
+PUBLIC DEMO PRIVACY
+All visible patient-style values in this package are synthetic.
+Do not replace them with identifiable real medical data in a public GitHub repo.
