@@ -22,7 +22,7 @@ except Exception:
     OPENAI_OK = False
 
 BASE = Path(__file__).resolve().parent
-DATA = BASE / "data"
+DATA = BASE /
 
 st.set_page_config(page_title="LabLens AI", page_icon="🔬", layout="wide", initial_sidebar_state="expanded")
 
